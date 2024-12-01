@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/fengari-lua/fengari/actions/workflows/ci.yaml/badge.svg)](https://github.com/fengari-lua/fengari/actions/workflows/ci.yaml?query=event%3Apush)
+[![Build Status](https://github.com/fengari-lua/fengari/actions/workflows/ci.yaml/badge.svg)](https://github.com/stalin-143)
 [![npm](https://img.shields.io/npm/v/fengari.svg)](https://github.com/stalin-143)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
