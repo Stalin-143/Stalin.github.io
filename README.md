@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/stalin-143)](https://github.com/stalin-143)
+
 
 
 [![npm](https://img.shields.io/npm/v/fengari.svg)](https://github.com/stalin-143)
